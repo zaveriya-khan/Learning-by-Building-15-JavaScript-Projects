@@ -2,26 +2,31 @@
 
 Hey there! 👋 I'm **Zaveriya Khan**, a passionate web development learner on a mission to master JavaScript through real, hands-on projects.
 
-This repository is a collection of **15 beginner-to-intermediate JavaScript projects**, designed to turn theory into practical experience.
+This repository is a growing collection of **15 beginner-to-intermediate JavaScript projects**, crafted to bridge the gap between theory and real-world application.
 
-Each project helps me grasp essential concepts while creating interactive and useful features you'd see in the real world.
+Each project helps me solidify core concepts while building something interactive, visual, and useful — one day at a time.
+
 
 
 ## 📁 Project List
 
-| No. | Project Name | Folder | Description |
-|-----|--------------|--------|-------------|
-| 1️⃣ | **Quiz App** | `Quiz_App/` | A multiple-choice quiz game that tracks user answers and score. |
-| 2️⃣ | Coming Soon... | `Project_2/` | New project dropping soon 🚧 |
+| No. | Project Name         | Folder           | Description                                                               |
+|-----|----------------------|------------------|---------------------------------------------------------------------------|
+| 1️⃣  | **Quiz App**          | `Quiz_App/`       | A multiple-choice quiz game that tracks user answers and score.           |
+| 2️⃣  | **Music Player**      | `Music_Player/`   | A custom music player with play/pause, next/prev, and progress tracking.  |
+| 3️⃣  | **Drag and Drop App** | `Drag_Drop_App/`  | A simple app to drag and drop items between sections using DOM events.    |
+| 4️⃣  | Coming Soon...        | `Project_4/`      | New project dropping soon 🚧                                              |
 
-> 🧠 I'm building and uploading projects **daily** — follow the journey!
+> 🧠 I'm building and uploading one project **daily** — follow along and learn with me!
+
 
 
 ## 🛠 Tech Stack
 
-- ✅ HTML5
-- 🎨 CSS3
-- ⚙️ JavaScript (Vanilla)
+- ✅ HTML5  
+- 🎨 CSS3  
+- ⚙️ JavaScript (Vanilla)  
+
 
 
 ## 🚀 How to Use
